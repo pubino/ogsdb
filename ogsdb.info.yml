@@ -1,10 +1,10 @@
-name: ORFE
+name: ogsdb 
 type: theme
 description: 'This is a sub-theme of theme Bartik.'
 core_version_requirement: 9.x
 base theme: bartik
 libraries:
-  - orfe/styles
+  - ogsdb/styles
 regions:
   branding: 'Branding'
   header: Header
