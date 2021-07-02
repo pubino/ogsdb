@@ -1,4 +1,4 @@
-$menu-link-color: white;
+$menu-link-color: rgb(184, 68, 0);
 $menu-bg-color: #525355;
 $hdr-bg-color: initial;
 $hdr-bg-image: initial;
@@ -143,7 +143,8 @@ body {
 		margin: 0 0.25em 0 0.25em;
 	}
 	a {
-		color: white;
+		color: $menu-link-color;
+		font-weight: bold;
 	}
 	a.active {
 		color: #c9c9c9;
