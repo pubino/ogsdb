@@ -3,6 +3,13 @@ body {
   font-family: "Noto Sans", sans-serif;
 }
 
+caption {
+  text-align: left;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: black;
+}
+
 #page {
   padding-top: 1em;
 }
