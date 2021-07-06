@@ -198,6 +198,14 @@ body {
 	}
 }
 
+.field--type-entity-reference{
+	margin: 0;
+	.field__label {
+		font-weight: bold;
+		font-size: 1.071em;
+	}
+}
+
 .layout-main {
 margin-top: 0;
 }
