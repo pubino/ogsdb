@@ -102,6 +102,10 @@ body {
 #header .site-branding__text a {
   color: black;
 }
+#header .site-branding__text .site-branding__slogan {
+  color: gray;
+  font-style: normal;
+}
 #header .orfe-logo {
   max-width: 450px;
 }
