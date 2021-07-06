@@ -180,6 +180,7 @@ body {
 .field--type-entity-reference .field__label {
   font-weight: bold;
   font-size: 1.071em;
+  font-family: "Noto Sans", sans-serif;
 }
 
 .layout-main {
