@@ -2,3 +2,9 @@ styles:
         css:
                 theme:
                         css/ogsdb.css: {}
+
+info-print-styling:
+  version: 1.0
+  css:
+    theme:
+      css/info-print-styling.css: {}
