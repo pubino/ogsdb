@@ -29,3 +29,7 @@ regions:
   footer_third: 'Footer third'
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
+
+entity_print:
+  view:
+    all: 'ogsdb/info-print-styling'
